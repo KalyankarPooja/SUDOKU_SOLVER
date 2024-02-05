@@ -13,6 +13,7 @@ SUDOKU GAME - A Fun and Challenging Way to Exercise Your Brain!
 ![sudokuexit](https://github.com/KalyankarPooja/SUDOKU_SOLVER/assets/136887565/37772081-013b-4182-a272-c4c0277c5557)
 -->by clicking on solution button you can see the solved puzzle.
 --> by clicking checkmoves you are enable to see wheather your moves are correct or wrong .if wrong it will show red color on that particular button.
+![sudokucheckmoves](https://github.com/KalyankarPooja/SUDOKU_SOLVER/assets/136887565/acaaa000-f9cf-46fd-9482-5a91199c6931)
 
 
 
