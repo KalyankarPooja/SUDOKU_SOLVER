@@ -8,7 +8,7 @@ SUDOKU GAME - A Fun and Challenging Way to Exercise Your Brain!
 --> you can select the numbers from selection button which you can see on screen from 1 to 9.
 
 --> if you want to reset your game the reset button at bottom left screen will help you by showing a dailog box click "yes" and you can reset the game;
-![sudokoreset](https://github.com/KalyankarPooja/SUDOKU_SOLVER/assets/136887565/9cc5e97c-9200-4fb6-97c3-a14e53922989)
+
 --> if you want to exit the game the exit button at bottom middle of the screen will help you by showing a dailog box click "yes" and you can exit the game;
 ![sudokuexit](https://github.com/KalyankarPooja/SUDOKU_SOLVER/assets/136887565/37772081-013b-4182-a272-c4c0277c5557)
 -->by clicking on solution button you can see the solved puzzle.
