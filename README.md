@@ -12,6 +12,7 @@ SUDOKU GAME - A Fun and Challenging Way to Exercise Your Brain!
 --> if you want to exit the game the exit button at bottom middle of the screen will help you by showing a dailog box click "yes" and you can exit the game;
 ![pic2 exit](https://github.com/KalyankarPooja/SUDOKU_SOLVER/assets/136887565/e64752fb-8a77-4f9f-9f2b-013e667bad7a)
 -->by clicking on solution button you can see the solved puzzle.
+![pic4sol](https://github.com/KalyankarPooja/SUDOKU_SOLVER/assets/136887565/fb66220e-28ba-478a-abf5-a3cf46c67d6d)
 --> by clicking checkmoves you are enable to see wheather your moves are correct or wrong .if wrong it will show red color on that particular button.
 ![pic3 sol](https://github.com/KalyankarPooja/SUDOKU_SOLVER/assets/136887565/b3c9440c-8f45-4e95-8079-90d544d2e9bb)
 
