@@ -1,1 +1,12 @@
 # SUDOKU_SOLVER
+SUDOKU GAME - A Fun and Challenging Way to Exercise Your Brain!
+
+->> TECH STACK - Java Swing,JFrame and done by using java maven project.
+
+->> Sudoku is a popular number-placement puzzle game that requires players to fill a nine-by-nine grid with digits so that each row, column, and 3x3 section contains numbers between 1 and 9, with each number used once and only once in each section. It's a challenging game that helps improve concentration, memory, and cognitive abilities.
+
+--> you can select the numbers from selection button which you can see on screen from 1 to 9.
+
+--> if you want to reset your game the reset button at bottom left screen will help you by showing a dailog box click "yes" and you can reset the game;
+
+
